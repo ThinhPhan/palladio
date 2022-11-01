@@ -2,7 +2,7 @@
   "devDependencies": {
     "baggage-loader": "^1.0.0",
     "css-loader": "^2.1.0",
-    "gulp": "^3.6.2",
+    "gulp": "^4.0.2",
     "gulp-angular-templates": "0.0.2",
     "gulp-concat": "2.6.1",
     "gulp-filter": "5.1.0",
